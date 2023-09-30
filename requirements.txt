@@ -1,0 +1,24 @@
+dill
+from-root
+notebook
+gdown
+flask-cors
+flask
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+tensorboard
+pandas
+seaborn
+ipython
+psutil
+thop
+
+-e .
